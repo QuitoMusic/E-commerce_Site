@@ -32,6 +32,39 @@ If you would like to contribute as a developer, you can submit a pull request. B
 
 Run the server by writing the command node server.js and lastly, use the Insomnia tool to test GET, POST, PUT and, DELETE.
 
+## Get API
+a. Get Category:
+<br>![](./Develop/assets/Get%20Categories.png)<br>
+b. Get Products:
+<br>![](./Develop/assets/Get%20Products.png)<br>
+c. Get Tags:
+<br>![](./Develop/assets/Get%20Tags.png)<br>
+d. Get objects by id:
+<br>![](./Develop/assets/Get%20Objects%20by%20ID.png)<br>
+
+## POST, PUT and DELETE API
+a. Post Hat:
+<br>![](./Develop/assets/Post%20Hat.png)<br>
+b. PUT Cap:
+<br>![](./Develop/assets/Put%20Cap.png)<br>
+c. DELETE Category:
+<br>![](./Develop/assets/Delete%20Category.png)<br>
+
+## Video Walkthrough 
+https://drive.google.com/file/d/1BiZsK4hO-ybryzTjtm6ogJBsjv16O3dV/view
+
+## Refferences
+
+1. Models Sequalize: https://sequelize.org/docs/v6/core-concepts/model-basics/
+
+2. ORM: https://www.theserverside.com/definition/object-relational-mapping-ORM
+
+3. Express Routing: https://expressjs.com/en/guide/routing.html
+
+4. Thomas' Object-Relational Mapping (ORM): E-Commerce Back End | UofT Coding Bootcamp: Module 13 :https://www.google.com/search?sxsrf=AB5stBiigorxdfNxzE0dLE2GVdt_2CcP7w:1689727777433&q=back+end+e+commerce+bootcamp&tbm=vid&sa=X&ved=2ahUKEwi6ocO_xpmAAxXaSjABHQIgBysQ0pQJegQIDBAB&biw=1440&bih=764&dpr=2#fpstate=ive&vld=cid:4cdf0b6a,vid:hGVJLTGqPgk
+
+
+
 ## Questions
 
 For any questions, please contact me:
